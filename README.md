@@ -34,4 +34,4 @@ You can open localhost in your browser (tested with Chrome and Safari) or start 
 The project is created in successful collaboration between:
 - [Xiaojing](https://github.com/ccxxj)
 - [Irem](https://github.com/ergunirem)
-- [Olga](https://github.com/Mollie-S)
+- [Olga](https://github.com/olsamar)
